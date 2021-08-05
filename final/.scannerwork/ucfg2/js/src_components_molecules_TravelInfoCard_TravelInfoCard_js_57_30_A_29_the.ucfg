@@ -1,0 +1,753 @@
+
+Hsrc_components_molecules_TravelInfoCard_TravelInfoCard_js_57_30_A_29_theê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js9 9()"s4_1*“ú
+s4_1
+<synthetic> (E
+C
+
+__unknown_file (	
+%expr_0"__id**
+
+theme"	
+paletteJ
+H
+
+__unknown_file (	
+%expr_1"__id**
+	
+%expr_0"
+
+background≥∞
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js:
+ >(
+	%object_0Object"Object≈
+¬
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js; ;(!
+
+	%object_0Object"
+
+flexGrow"__id*2ﬁ
+€
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js< <(;(
+
+	%object_0Object"
+backgroundColor"__id**
+	
+%expr_1"
+paper«
+ƒ
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js= =(
+
+	%object_0Object"
+width"__id*	
+390pxI
+G
+
+__unknown_file (
+	%sc-P_6_0"__id**
+
+%env"
+
+%scope-P_6F
+D
+
+__unknown_file (	
+%expr_2"__id**
+
+	%sc-P_6_0"
+greyæ
+ª
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsP P(
+%var_0"__mapGet*
+	
+%expr_2*2ê≥∞
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsH Q(
+	%object_1Object"Object—
+Œ
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsI I( #
+
+	%object_1Object"
+
+fontFamily"__id*
+
+Montserrat…
+∆
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsJ J(!
+
+	%object_1Object"
+
+fontSize"__id*
+10px»
+≈
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsK K(#
+
+	%object_1Object"
+
+fontWeight"__id*2ÙŒ
+À
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsL L($
+
+	%object_1Object"
+fontStretch"__id*
+
+normalÃ
+…
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsM M("
+
+	%object_1Object"
+	fontStyle"__id*
+
+normal«
+ƒ
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsN N(#
+
+	%object_1Object"
+
+lineHeight"__id*2œ
+Ã
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsO O(&
+
+	%object_1Object"
+letterSpacing"__id*	
+0.2px»
+≈
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsP P(
+
+	%object_1Object"
+color"__id*
+
+
+%var_0≥∞
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsR V(
+	%object_2Object"Object…
+∆
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsS S(
+
+	%object_2Object"
+color"__id*	
+#5ac568»
+≈
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsT T(#
+
+	%object_2Object"
+
+fontWeight"__id*2ÿ«
+ƒ
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsU U(#
+
+	%object_2Object"
+
+lineHeight"__id*2≥∞
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsW Y(
+	%object_3Object"Objectœ
+Ã
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsX X('
+
+	%object_3Object"
+textDecoration"__id*
+none≥∞
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsZ ^(
+	%object_4Object"Objectœ
+Ã
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js[ [( 
+
+	%object_4Object"	
+display"__id*
+inline-flexÕ
+ 
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js\ \(&
+
+	%object_4Object"
+flexDirection"__id*
+rowÕ
+ 
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js] ](#
+
+	%object_4Object"
+
+alignItems"__id*
+
+center≥∞
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js_ a(
+	%object_5Object"ObjectÀ
+»
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js` `(#
+
+	%object_5Object"
+
+marginLeft"__id*
+auto≥∞
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsb i(
+	%object_6Object"Object»
+≈
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsc c( 
+
+	%object_6Object"	
+display"__id*
+flexÕ
+ 
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsd d(&
+
+	%object_6Object"
+flexDirection"__id*
+rowÕ
+ 
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jse e(#
+
+	%object_6Object"
+
+alignItems"__id*
+
+centerƒ
+¡
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsf f(
+
+	%object_6Object"
+gap"__id*
+10px’
+“
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsg g(%'
+
+	%object_6Object"
+justifyContent"__id*
+
+flex-start’
+“
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsh h(% 
+
+	%object_6Object"	
+padding"__id*
+10px 0px 10px 0px≥∞
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsj n(
+	%object_7Object"Object…
+∆
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsk k(
+
+	%object_7Object"
+color"__id*	
+#5f7381Ã
+…
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsl l(%
+
+	%object_7Object"
+paddingRight"__id*
+8pxI
+G
+
+__unknown_file (
+	%sc-P_6_1"__id**
+
+%env"
+
+%scope-P_6E
+C
+
+__unknown_file (	
+%expr_3"__id**
+
+	%sc-P_6_1"
+redæ
+ª
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsp p(
+%var_1"__mapGet*
+	
+%expr_3*2Ù≥∞
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jso u(
+	%object_8Object"Object»
+≈
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsp p(
+
+	%object_8Object"
+color"__id*
+
+
+%var_1…
+∆
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsq q(!
+
+	%object_8Object"
+
+fontSize"__id*
+12px»
+≈
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsr r(#
+
+	%object_8Object"
+
+fontWeight"__id*2Ù«
+ƒ
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jss s(#
+
+	%object_8Object"
+
+lineHeight"__id*2œ
+Ã
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jst t(&
+
+	%object_8Object"
+letterSpacing"__id*	
+0.2pxI
+G
+
+__unknown_file (
+	%sc-P_6_2"__id**
+
+%env"
+
+%scope-P_6G
+E
+
+__unknown_file (	
+%expr_4"__id**
+
+	%sc-P_6_2"
+greenæ
+ª
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsw w(
+%var_2"__mapGet*
+	
+%expr_4*2Ù≥∞
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsv x(
+	%object_9Object"Object»
+≈
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsw w(
+
+	%object_9Object"
+color"__id*
+
+
+%var_2µ≤
+ë
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsy Ä(
+
+%object_10Object"Object 
+«
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsz z(
+
+
+%object_10Object"
+color"__id*	
+#5f7381 
+«
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js{ {("
+
+
+%object_10Object"
+
+fontSize"__id*
+11px“
+œ
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js| |(!$
+
+
+%object_10Object"
+
+fontFamily"__id*
+
+Montserrat»
+≈
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js} }($
+
+
+%object_10Object"
+
+lineHeight"__id*2–
+Õ
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js~ ~('
+
+
+%object_10Object"
+letterSpacing"__id*	
+0.2pxÀ
+»
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js ($
+
+
+%object_10Object"
+
+fontWeight"__id*
+500∂≥
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsÅ Ñ(
+
+%object_11Object"ObjectÀ
+»
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsÇ Ç(!
+
+
+%object_11Object"	
+display"__id*
+flex”
+–
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsÉ É( '
+
+
+%object_11Object"
+flexDirection"__id*
+
+column∂≥
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsâ) å(
+
+%object_12Object"Object 
+«
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsä ä( 
+
+
+%object_12Object"
+height"__id*
+48pxÃ
+…
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsã ã(!"
+
+
+%object_12Object"
+
+minWidth"__id*
+48px∂≥
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsà ë(	
+
+%object_13Object"ObjectÎ
+Ë
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsâ å(3
+
+
+%object_13Object"
+@media (min-width: 600px)"__id*
+
+
+%object_12Objectÿ
+’
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsç ç()+
+
+
+%object_13Object"
+borderBottomColor"__id*	
+#0000ff∂≥
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsó ô(
+
+%object_14Object"Object÷
+”
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsò ò(.)
+
+
+%object_14Object"
+backgroundColor"__id*	
+#5ac568∂≥
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsì ö(
+
+%object_15Object"Object÷
+”
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsî î(+)
+
+
+%object_15Object"
+backgroundColor"__id*	
+#5ac568 
+«
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsï ï(
+
+
+%object_15Object"
+color"__id*	
+whiteÿ
+’
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsñ ñ(-+
+
+
+%object_15Object"
+borderBottomColor"__id*	
+#0000ffŸ
+÷
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsó ô(!
+
+
+%object_15Object"	
+&:hover"__id*
+
+
+%object_14Object∂≥
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsí õ(	
+
+%object_16Object"Object‹
+Ÿ
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsì ö($
+
+
+%object_16Object"
+
+&$selected"__id*
+
+
+%object_15Object∂≥
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsÖ ú(
+
+%object_17Object"Object…
+∆
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsÜ Ü(
+
+
+%object_17Object"
+width"__id*
+24px 
+«
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsá á( 
+
+
+%object_17Object"
+height"__id*
+24px÷
+”
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsà ë(	
+
+
+%object_17Object"
+root"__id*
+
+
+%object_13Object‚
+ﬂ
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsí õ(	*
+
+
+%object_17Object"
+textColorInherit"__id*
+
+
+%object_16Object∂≥
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsù †(
+
+%object_18Object"Object…
+∆
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsû û(
+
+
+%object_18Object"
+width"__id*
+20px 
+«
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsü ü( 
+
+
+%object_18Object"
+height"__id*
+20pxµ≤
+ë
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js9) °(
+
+%object_19Object"Object”
+–
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js: >(
+
+
+%object_19Object"
+root"__id*
+
+	%object_0Objectÿ
+’
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsH Q(#
+
+
+%object_19Object"
+	caption32"__id*
+
+	%object_1ObjectŸ
+÷
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsR V($
+
+
+%object_19Object"
+
+linkStyles"__id*
+
+	%object_2Object”
+–
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsW Y(
+
+
+%object_19Object"
+link"__id*
+
+	%object_3Object’
+“
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsZ ^( 
+
+
+%object_19Object"
+header"__id*
+
+	%object_4Object‘
+—
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js_ a(
+
+
+%object_19Object"
+right"__id*
+
+	%object_5Object‹
+Ÿ
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsb i('
+
+
+%object_19Object"
+directionsDiv"__id*
+
+	%object_6Object‰
+·
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsj n(/
+
+
+%object_19Object"
+innerDirectionDivText"__id*
+
+	%object_7Objectÿ
+’
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jso u(#
+
+
+%object_19Object"
+	textInRed"__id*
+
+	%object_8Object⁄
+◊
+ê
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsv x(%
+
+
+%object_19Object"
+textInGreen"__id*
+
+	%object_9ObjectÂ
+‚
+ë
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsy Ä(.
+
+
+%object_19Object"
+locationTimeCostText"__id*
+
+
+%object_10Objectﬂ
+‹
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsÅ Ñ('
+
+
+%object_19Object"
+travelInfoDiv"__id*
+
+
+%object_11Object⁄
+◊
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsÖ ú("
+
+
+%object_19Object"
+
+tabIcons"__id*
+
+
+%object_17Object‚
+ﬂ
+í
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.jsù †(*
+
+
+%object_19Object"
+descriptionIcons"__id*
+
+
+%object_18Object"¨
+ë
+Ö/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/TravelInfoCard/TravelInfoCard.js9) °(
+
+
+%object_19Object:
+%env:
+themeB 

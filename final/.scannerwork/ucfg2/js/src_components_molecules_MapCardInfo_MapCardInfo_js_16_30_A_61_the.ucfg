@@ -1,0 +1,653 @@
+
+Bsrc_components_molecules_MapCardInfo_MapCardInfo_js_16_30_A_61_the‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js ()"s2_1*Ñ‰
+s2_1
+<synthetic> (¬©
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js
+ (
+	%object_0Object"ObjectÈ
+Å
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js ( 
+
+	%object_0Object"	
+display"__id*
+inline-flexÀ
+½
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js (
+
+	%object_0Object"
+width"__id*	
+390pxÉ
+Æ
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js ( &
+
+	%object_0Object"
+flexDirection"__id*
+
+columnÄ
+Á
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js (#
+
+	%object_0Object"
+
+alignItems"__id*
+leftÄ
+Á
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js (#
+
+	%object_0Object"
+
+marginLeft"__id*
+30px¬©
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js (
+	%object_1Object"ObjectÈ
+Å
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js ( 
+
+	%object_1Object"	
+display"__id*
+inline-flexÆ
+Ã
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js (&
+
+	%object_1Object"
+flexDirection"__id*
+row½
+º
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js (
+
+	%object_1Object"
+gap"__id*
+10px¬©
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js !(
+	%object_2Object"ObjectÇ
+Ä
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js   ( 
+
+	%object_2Object"	
+padding"__id*
+
+5% 5% 5% 0¬©
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js" '(
+	%object_3Object"ObjectÁ
+¾
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js# #( 
+
+	%object_3Object"	
+display"__id*
+flexÉ
+Æ
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js$ $( &
+
+	%object_3Object"
+flexDirection"__id*
+
+column½
+º
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js% %(
+
+	%object_3Object"
+gap"__id*
+10pxÀ
+½
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js& &(
+
+	%object_3Object"
+width"__id*	
+330px¬©
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js( 5(
+	%object_4Object"ObjectÈ
+Å
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js) )( 
+
+	%object_4Object"	
+display"__id*
+inline-flexÆ
+Ã
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js+ +(#
+
+	%object_4Object"
+
+alignItems"__id*
+
+centerÀ
+½
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js, ,(
+
+	%object_4Object"
+width"__id*	
+330pxÀ
+½
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js- -(
+
+	%object_4Object"
+height"__id*
+50pxÆ
+Ã
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js4 4(%
+
+	%object_4Object"
+borderRadius"__id*
+10px¬©
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js6 9(
+	%object_5Object"ObjectÌ
+É
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js7 7(#(
+
+	%object_5Object"
+backgroundColor"__id*	
+#e3f3f6Æ
+Ã
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js8 8(%
+
+	%object_5Object"
+borderRadius"__id*
+10px¬©
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js: <(
+	%object_6Object"ObjectÂ
+¿
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js; ;(
+
+	%object_6Object"
+color"__id*	
+#19293b¬©
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js= @(
+	%object_7Object"ObjectÄ
+Á
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js> >(!
+
+	%object_7Object"
+
+overflow"__id*
+
+hiddenÊ
+Ç
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js? ?(!%
+
+	%object_7Object"
+textOverflow"__id*
+
+ellipsis¬©
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsA G(
+	%object_8Object"ObjectÁ
+¾
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsB B( 
+
+	%object_8Object"	
+display"__id*
+flexÆ
+Ã
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsC C(&
+
+	%object_8Object"
+flexDirection"__id*
+rowÆ
+Ã
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsD D(#
+
+	%object_8Object"
+
+alignItems"__id*
+
+centerÎ
+Ë
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsE E(%'
+
+	%object_8Object"
+justifyContent"__id*
+
+flex-startÈ
+Å
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsF F( 
+
+	%object_8Object"	
+padding"__id*
+2% 5% 3% 5%¬©
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsH L(
+	%object_9Object"ObjectÄ
+Á
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsJ J($
+
+	%object_9Object"
+paddingLeft"__id*
+8pxÂ
+¿
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsK K(
+
+	%object_9Object"
+color"__id*	
+#19293b­ª
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsM U(
+
+%object_10Object"ObjectË
+È
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsN N( $
+
+
+%object_10Object"
+
+fontFamily"__id*
+
+MontserratÃ
+À
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsO O("
+
+
+%object_10Object"
+
+fontSize"__id*
+14pxÂ
+¿
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsP P($
+
+
+%object_10Object"
+
+fontWeight"__id*2ôÈ
+Å
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsQ Q(%
+
+
+%object_10Object"
+fontStretch"__id*
+
+normalÆ
+Ã
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsR R(#
+
+
+%object_10Object"
+	fontStyle"__id*
+
+normalÁ
+¾
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsS S($
+
+
+%object_10Object"
+
+lineHeight"__id*2É
+Æ
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsT T('
+
+
+%object_10Object"
+letterSpacing"__id*	
+0.1px­ª
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsV Z(
+
+%object_11Object"ObjectÀ
+½
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsW W(
+
+
+%object_11Object"
+width"__id*
+24pxÁ
+¾
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsX X( 
+
+
+%object_11Object"
+height"__id*
+24pxÑ
+Î
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsY Y(&#
+
+
+%object_11Object"
+	marginTop"__id*
+0px 8px 20px 30px­ª
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js[ ^(
+
+%object_12Object"ObjectÇ
+Ä
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js\ \( 
+
+
+%object_12Object"
+margin"__id*
+
+0 0 0 10pxÀ
+½
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js] ](
+
+
+%object_12Object"
+width"__id*
+24pxÁ
+¾
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js] ]($ 
+
+
+%object_12Object"
+height"__id*
+24pxÃ
+À
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js]& ](6
+
+
+%object_12Object"
+color"__id*	
+#9bbdcb­ª
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js_ b(
+
+%object_13Object"ObjectÎ
+Ë
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js` `(#!
+
+
+%object_13Object"	
+padding"__id*
+0px 0px 0px 20pxÀ
+½
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsa a(
+
+
+%object_13Object"
+width"__id*
+24pxÁ
+¾
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsa a($ 
+
+
+%object_13Object"
+height"__id*
+24pxÃ
+À
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsa& a(6
+
+
+%object_13Object"
+color"__id*	
+#9bbdcb­ª
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsc g(
+
+%object_14Object"ObjectÀ
+½
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsd d(
+
+
+%object_14Object"
+width"__id*
+16pxÁ
+¾
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jse e( 
+
+
+%object_14Object"
+height"__id*
+24pxÅ
+Â
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsf f(%
+
+
+%object_14Object"
+marginRight"__id*
+8px­ª
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsh m(
+
+%object_15Object"ObjectÀ
+½
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsi i(
+
+
+%object_15Object"
+width"__id*
+16pxÁ
+¾
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsj j( 
+
+
+%object_15Object"
+height"__id*
+24pxÃ
+À
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsk k(
+
+
+%object_15Object"
+color"__id*	
+#324552Å
+Â
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsl l(%
+
+
+%object_15Object"
+marginRight"__id*
+8px­ª
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js) n(
+
+%object_16Object"ObjectÌ
+É
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js (
+
+
+%object_16Object"
+root"__id*
+
+	%object_0ObjectÑ
+Î
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js (#
+
+
+%object_16Object"
+	headerDiv"__id*
+
+	%object_1ObjectÐ
+Í
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js !("
+
+
+%object_16Object"
+
+imageDiv"__id*
+
+	%object_2ObjectÓ
+Ð
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js" '(%
+
+
+%object_16Object"
+listItemDiv"__id*
+
+	%object_3ObjectØ
+Õ
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js( 5(*
+
+
+%object_16Object"
+innerListItemDiv"__id*
+
+	%object_4Objectß
+Ü
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js6 9(1
+
+
+%object_16Object"
+innerListItemDivStyling"__id*
+
+	%object_5ObjectÝ
+Ú
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js: <(/
+
+
+%object_16Object"
+typographyHeaderStyle"__id*
+
+	%object_6ObjectÌ
+É
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js= @(
+
+
+%object_16Object"
+hide"__id*
+
+	%object_7ObjectÖ
+Ó
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsA G((
+
+
+%object_16Object"
+srcLocationDiv"__id*
+
+	%object_8ObjectÔ
+Ñ
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsH L(&
+
+
+%object_16Object"
+locationTypo"__id*
+
+	%object_9ObjectÓ
+Ð
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsM U($
+
+
+%object_16Object"
+
+subtitle22"__id*
+
+
+%object_10ObjectÞ
+Û
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsV Z(/
+
+
+%object_16Object"
+backArrowOutlinedIcon"__id*
+
+
+%object_11ObjectÛ
+Ø
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js[ ^(,
+
+
+%object_16Object"
+closedOutlinedIcon"__id*
+
+
+%object_12ObjectÕ
+Ò
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js_ b(&
+
+
+%object_16Object"
+outlinedIcon"__id*
+
+
+%object_13ObjectÓ
+Ð
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsc g($
+
+
+%object_16Object"
+
+circleIcon"__id*
+
+
+%object_14ObjectÝ
+Ú
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.jsh m(.
+
+
+%object_16Object"
+locationOutlinedIcon"__id*
+
+
+%object_15Object"¤
+‰
+/home/saching/Desktop/ClonedBootcamp-GreenCommute/GreenCommute (copy)/final/src/components/molecules/MapCardInfo/MapCardInfo.js) n(
+
+
+%object_16Object:
+%env:
+themeB 
